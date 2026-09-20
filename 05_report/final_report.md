@@ -1,6 +1,6 @@
 | **Output**                                                                             | **Result**                                                                                                                                                                                                                                                                 |
 | -------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Title**                                                                              | Analysis of the APP Swedish Mutation (c.2010_2011inv / p.Lys670_Met671delinsAsnLeu)                                                                                                                                                                                        |
+| **Title**                                                                              | Aoficiar-early-onset-familial-alzheimer-s-disease-gene-mutation-lab                                                                                                                                                                                        |
 | **Disease Background**                                                                 | The mutation is associated with early-onset Alzheimer’s disease, a neurodegenerative disorder characterized by progressive memory loss, cognitive decline, and accumulation of amyloid-β plaques in the brain.                                                             |
 | **Gene and Normal Protein Function**                                                   | The APP gene encodes the amyloid precursor protein, a transmembrane protein involved in neuronal growth, synapse formation, and repair. Normally, APP is cleaved in a regulated manner, producing peptides that do not form toxic aggregates.                              |
 | **Documented Mutation**                                                                | NM_000484.4:c.2010_2011inv; a 2-base inversion in the coding sequence resulting in p.Lys670_Met671delinsAsnLeu (Swedish mutation).                                                                                                                                         |
@@ -16,4 +16,7 @@
 # REFERENCES:
 https://www.ncbi.nlm.nih.gov/nuccore/NM_000484.4?report=genbank&from=1660&to=2659
 https://www.ncbi.nlm.nih.gov/clinvar/variation/18093/?term=%22RCV000034924.13%22
+
+# GALAXY
+https://usegalaxy.org/u/franciskyle/h/oficiar-early-onset-familial-alzheimer-s-disease-gene-mutation-lab
 
