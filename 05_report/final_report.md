@@ -12,5 +12,8 @@
 | **Molecular Interpretation (gene → mutation → protein → cellular effect → phenotype)** | APP gene → 2-bp inversion mutation → altered amino acids at β-secretase cleavage site → increased amyloid-β production → accumulation of plaques → neurodegeneration and Alzheimer’s disease phenotype.                                                                    |
 | **Limitations**                                                                        | The analysis is based on sequence-level prediction only. No structural modeling or experimental validation was performed. Effects on protein folding and cellular pathways are inferred from literature.                                                                   |
 | **Conclusion**                                                                         | The APP c.2010_2011inv mutation is an in-frame inversion causing a complex missense change that increases amyloid-β production, contributing to Alzheimer’s disease pathology.                                                                                             |
-                                                                                                                          
+
+# REFERENCES:
+https://www.ncbi.nlm.nih.gov/nuccore/NM_000484.4?report=genbank&from=1660&to=2659
+https://www.ncbi.nlm.nih.gov/clinvar/variation/18093/?term=%22RCV000034924.13%22
 
